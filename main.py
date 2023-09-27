@@ -48,8 +48,5 @@ while True:
             msg="Subject:Look Up \n\n The ISS is above you in the sky."
         )
 
-# Then send me an email to tell me to look up.
-# BONUS: run the code every 60 seconds.
-
 
 
